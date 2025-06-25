@@ -1,4 +1,3 @@
-general = {}
 
 [core]
 
@@ -15,4 +14,10 @@ general = {}
 		analytics = true
 		#If the version checker should be enabled.
 		versionChecker = true
+
+[general]
+
+	[general.general]
+		#If a button should be added to the main menu to open a dev world (shift-click creates a new world).
+		devWorldButton = false
 
